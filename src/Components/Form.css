@@ -1,0 +1,35 @@
+.form{
+    background-color: white;
+    width: 52%;
+    border: 2px solid black;
+    border-radius: 8px;
+    margin-top: 30px;
+    
+}
+.form-parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-heading{
+    text-align: center;
+    font-weight: 500;
+}
+.form-row{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-row-child{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.form-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}

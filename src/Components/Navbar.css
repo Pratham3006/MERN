@@ -1,0 +1,23 @@
+
+.Navbar{ 
+    border: 2px solid black;
+}
+nav{
+    background-color: antiquewhite;
+}
+.nav-link{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+}
+.nav-link li{
+    background-color: antiquewhite;
+    margin: 10px;
+    list-style: none;
+}
+.btn{
+    background-color: blueviolet;
+    color: azure;
+    font-weight: 400;
+}
